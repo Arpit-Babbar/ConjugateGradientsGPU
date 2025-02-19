@@ -1,3 +1,5 @@
+using Test
+
 include("test_base.jl")
 
 @testset "ConjugateGradients" begin
